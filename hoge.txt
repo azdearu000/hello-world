@@ -1,1 +1,1 @@
-hoge hoge.foo
+1 hoge hoge.foo
